@@ -1,0 +1,50 @@
+[
+  {
+    "director" : "Byron Howard",
+    "description" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it’s a melting pot where animals from every environment live together—a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything.",
+    "image" : "http://trailers.apple.com/trailers/disney/zootopia/images/poster.jpg",
+    "numberOfViews" : 974,
+    "title" : "Zootopia",
+    "url" : "http://movietrailers.apple.com/movies/disney/zootopia/zootopia-tlr2_i320.m4v"
+  },
+  {
+    "director" : "Morten Tyldum",
+    "description" : "Jennifer Lawrence and Chris Pratt star in an exciting action-thriller about two passengers who are on a 120-year journey to another planet when their hibernation pods wake them 90 years too early.",
+    "image" : "http://trailers.apple.com/trailers/sony_pictures/passengers/images/poster.jpg",
+    "numberOfViews" : 825,
+    "title" : "Passengers",
+    "url" : "http://movietrailers.apple.com/movies/sony_pictures/passengers/passengers-clip-i-woke-up-too-soon_i320.m4v"
+  },
+  {
+    "director" : "Michael Bay",
+    "description" : "Humans and Transformers are at war, Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth.",
+    "image" : "http://trailers.apple.com/trailers/paramount/transformers-the-last-knight/images/poster.jpg",
+    "numberOfViews" : 891,
+    "title" : "Transformers: The Last Knight",
+    "url" : "http://movietrailers.apple.com/movies/paramount/transformers-the-last-knight/transformers-5-big-game-spot-2_i320.m4v"
+  },
+  {
+    "director" : "Gabriela Cowperthwaite",
+    "description" : "MEGAN LEAVEY is based on the true life story of a young marine corporal (Kate Mara) whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.",
+    "image" : "http://trailers.apple.com/trailers/independent/megan-leavey/images/poster.jpg",
+    "numberOfViews" : 612,
+    "title" : "Megan Leavey",
+    "url" : "http://movietrailers.apple.com/movies/independent/megan-leavey/megan-leavey-trailer-1_i320.m4v"
+  },
+  {
+    "director" : "James Mangold",
+    "description" : "In the near future, a weary Logan cares for an ailing Professor X somewhere on the Mexican border. However, Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+    "image" : "http://trailers.apple.com/trailers/fox/logan/images/poster.jpg",
+    "numberOfViews" : 738,
+    "title" : "Logan",
+    "url" : "http://movietrailers.apple.com/movies/fox/logan/logan-clip-you-know-the-drill_i320.m4v"
+  },
+  {
+    "director" : "Bill Condon",
+    "description" : "Disney’s “Beauty and the Beast” is a live-action re-telling of the studio’s animated classic which refashions the classic characters from the tale as old as time for a contemporary audience, staying true to the original music while updating the score with several new songs.",
+    "image" : "http://trailers.apple.com/trailers/disney/beautyandthebeast/images/poster.jpg",
+    "numberOfViews" : 597,
+    "title" : "Beauty and the Beast",
+    "url" : "http://movietrailers.apple.com/movies/disney/beautyandthebeast2016/beauty-and-the-beast-clip-gaston_i320.m4v"
+  }
+]
